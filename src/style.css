@@ -47,7 +47,12 @@ table {
 	border-spacing: 0;
 }
 
+body {
+	font-family: 'PingFang TC', serif;
+}
+
 img {
+	max-width: 100%;
   display: block;
 }
 
